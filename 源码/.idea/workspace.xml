@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8203b6e-ff57-4507-b5a7-87ebec63d0a1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="源码" />
+  </component>
+  <component name="ProjectId" id="1jzlL6xM3fwjCRaEueT2Dt2Vzpw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/11.基于TCP协议的Socket编程_聊天室_群聊/chatServer3/src/com/bjsxt/chat/server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\新建文件夹\源码\11.基于TCP协议的Socket编程_聊天室_群聊\chatServer3\src\com\bjsxt\chat\server\com\bjsxt\chat\server1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.chat.client1.Client" />
+      <module name="源码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.chat.client1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.chat.client.Client" />
+      <module name="源码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.chat.client1.Client" />
+      <module name="源码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.chat.client1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.chat.server1.Server" />
+      <module name="源码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.chat.server1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bjsxt.chat.server.Server" />
+      <module name="源码" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bjsxt.chat.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8203b6e-ff57-4507-b5a7-87ebec63d0a1" name="默认更改列表" comment="" />
+      <created>1604814741145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604814741145</updated>
+      <workItem from="1604814742286" duration="3755000" />
+      <workItem from="1604818557711" duration="841000" />
+      <workItem from="1604839368105" duration="579000" />
+      <workItem from="1605104866382" duration="70000" />
+      <workItem from="1605195318306" duration="233000" />
+      <workItem from="1605196015489" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1604817848919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1604817848919" />
+    <state x="620" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604814858739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1604814858739" />
+    <state x="361" y="71" key="#项目结构" timestamp="1604815107636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1604815107636" />
+    <state x="549" y="119" key="FileChooserDialogImpl" timestamp="1604815617678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604815617678" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605195552984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605195552984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605195552984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605195552984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605195552984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605195552984" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605195552984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605195552984" />
+    <state width="1493" height="266" key="GridCell.Tab.1.bottom" timestamp="1604839950872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604839950872" />
+    <state width="1493" height="266" key="GridCell.Tab.1.center" timestamp="1604839950872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604839950872" />
+    <state width="1493" height="266" key="GridCell.Tab.1.left" timestamp="1604839950872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604839950872" />
+    <state width="1493" height="266" key="GridCell.Tab.1.right" timestamp="1604839950872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="266" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604839950872" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1604816687931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604816687931" />
+    <state x="565" y="190" key="chooseDestDirectoryDialog" timestamp="1604816771113">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1604816771113" />
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1605196016056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605196016056" />
+  </component>
+</project>
