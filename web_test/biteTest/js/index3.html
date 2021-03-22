@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>注册页面</title>  
+		<link rel="stylesheet" type="text/css" href="index3.css" >
+		<script>
+			function myck(type){
+				if(type==1){
+					alert('提交成功');
+				    alert('提交成功2');
+				}else if(type == 2){
+					if(confirm('是否确认清空？')){
+					console.log("删除确定清空操作")
+					}
+					}else{
+				console.error("点错le")
+				}
+					}
+		</script>
+	</head>
+	<body>
+		<div style="text-align: center;margin-top: 100px;">
+			<h1 style="">注册</h1><p></p>
+			<div id="div1" style="margin-left: -100px;">
+				&nbsp;&nbsp;用户名：<input id="username" name="uname" type = "text" /><p></p>
+				&nbsp;密&nbsp;&nbsp;&nbsp;&nbsp;码：<input id="pwd" name="password" type = "password" /><p></p>
+				确认密码：<input type="password" /><p></p>
+			</div>
+		
+			<div>
+				<input type="button" value="提交" onclick="myck(1)" >
+				<input type="button" value="清空" onclick="myck(2)" >
+			</div>
+		
+		</div>
+		
+		
+	</body>
+</html>
